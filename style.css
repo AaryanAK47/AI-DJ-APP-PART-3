@@ -1,0 +1,16 @@
+.heading
+ {
+      font-size: 20px;
+       width: 100%;
+        margin: 0px;
+ } 
+ .note
+  {
+       font-size: 15px;
+        color: black;
+ } 
+ body
+  {
+    background-size: cover;
+ }
+ 
